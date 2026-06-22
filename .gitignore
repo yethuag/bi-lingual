@@ -1,0 +1,7 @@
+__pycache__/
+*.py[cod]
+.DS_Store
+.claude/
+pipeline_run*.log
+*.backup.csv
+*.precrash.csv

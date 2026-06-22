@@ -1,0 +1,306 @@
+{
+  "test_name": "PsychKit IPIP-50 Big Five Personality Test",
+  "language": "en",
+  "questions": [
+    {
+      "id": 1,
+      "text": "Am the life of the party.",
+      "trait": "Extraversion",
+      "keying": "+"
+    },
+    {
+      "id": 2,
+      "text": "Feel little concern for others.",
+      "trait": "Agreeableness",
+      "keying": "-"
+    },
+    {
+      "id": 3,
+      "text": "Am always prepared.",
+      "trait": "Conscientiousness",
+      "keying": "+"
+    },
+    {
+      "id": 4,
+      "text": "Get stressed out easily.",
+      "trait": "Neuroticism",
+      "keying": "+"
+    },
+    {
+      "id": 5,
+      "text": "Have a rich vocabulary.",
+      "trait": "Openness",
+      "keying": "+"
+    },
+    {
+      "id": 6,
+      "text": "Don't talk a lot.",
+      "trait": "Extraversion",
+      "keying": "-"
+    },
+    {
+      "id": 7,
+      "text": "Am interested in people.",
+      "trait": "Agreeableness",
+      "keying": "+"
+    },
+    {
+      "id": 8,
+      "text": "Leave my belongings around.",
+      "trait": "Conscientiousness",
+      "keying": "-"
+    },
+    {
+      "id": 9,
+      "text": "Am relaxed most of the time.",
+      "trait": "Neuroticism",
+      "keying": "-"
+    },
+    {
+      "id": 10,
+      "text": "Have difficulty understanding abstract ideas.",
+      "trait": "Openness",
+      "keying": "-"
+    },
+    {
+      "id": 11,
+      "text": "Feel comfortable around people.",
+      "trait": "Extraversion",
+      "keying": "+"
+    },
+    {
+      "id": 12,
+      "text": "Insult people.",
+      "trait": "Agreeableness",
+      "keying": "-"
+    },
+    {
+      "id": 13,
+      "text": "Pay attention to details.",
+      "trait": "Conscientiousness",
+      "keying": "+"
+    },
+    {
+      "id": 14,
+      "text": "Worry about things.",
+      "trait": "Neuroticism",
+      "keying": "+"
+    },
+    {
+      "id": 15,
+      "text": "Have a vivid imagination.",
+      "trait": "Openness",
+      "keying": "+"
+    },
+    {
+      "id": 16,
+      "text": "Keep in the background.",
+      "trait": "Extraversion",
+      "keying": "-"
+    },
+    {
+      "id": 17,
+      "text": "Sympathize with others' feelings.",
+      "trait": "Agreeableness",
+      "keying": "+"
+    },
+    {
+      "id": 18,
+      "text": "Make a mess of things.",
+      "trait": "Conscientiousness",
+      "keying": "-"
+    },
+    {
+      "id": 19,
+      "text": "Seldom feel blue.",
+      "trait": "Neuroticism",
+      "keying": "-"
+    },
+    {
+      "id": 20,
+      "text": "Am not interested in abstract ideas.",
+      "trait": "Openness",
+      "keying": "-"
+    },
+    {
+      "id": 21,
+      "text": "Start conversations.",
+      "trait": "Extraversion",
+      "keying": "+"
+    },
+    {
+      "id": 22,
+      "text": "Am not interested in other people's problems.",
+      "trait": "Agreeableness",
+      "keying": "-"
+    },
+    {
+      "id": 23,
+      "text": "Get chores done right away.",
+      "trait": "Conscientiousness",
+      "keying": "+"
+    },
+    {
+      "id": 24,
+      "text": "Am easily disturbed.",
+      "trait": "Neuroticism",
+      "keying": "+"
+    },
+    {
+      "id": 25,
+      "text": "Have excellent ideas.",
+      "trait": "Openness",
+      "keying": "+"
+    },
+    {
+      "id": 26,
+      "text": "Have little to say.",
+      "trait": "Extraversion",
+      "keying": "-"
+    },
+    {
+      "id": 27,
+      "text": "Have a soft heart.",
+      "trait": "Agreeableness",
+      "keying": "+"
+    },
+    {
+      "id": 28,
+      "text": "Often forget to put things back in their proper place.",
+      "trait": "Conscientiousness",
+      "keying": "-"
+    },
+    {
+      "id": 29,
+      "text": "Get upset easily.",
+      "trait": "Neuroticism",
+      "keying": "+"
+    },
+    {
+      "id": 30,
+      "text": "Do not have a good imagination.",
+      "trait": "Openness",
+      "keying": "-"
+    },
+    {
+      "id": 31,
+      "text": "Talk to a lot of different people at parties.",
+      "trait": "Extraversion",
+      "keying": "+"
+    },
+    {
+      "id": 32,
+      "text": "Am not really interested in others.",
+      "trait": "Agreeableness",
+      "keying": "-"
+    },
+    {
+      "id": 33,
+      "text": "Like order.",
+      "trait": "Conscientiousness",
+      "keying": "+"
+    },
+    {
+      "id": 34,
+      "text": "Change my mood a lot.",
+      "trait": "Neuroticism",
+      "keying": "+"
+    },
+    {
+      "id": 35,
+      "text": "Am quick to understand things.",
+      "trait": "Openness",
+      "keying": "+"
+    },
+    {
+      "id": 36,
+      "text": "Don't like to draw attention to myself.",
+      "trait": "Extraversion",
+      "keying": "-"
+    },
+    {
+      "id": 37,
+      "text": "Take time out for others.",
+      "trait": "Agreeableness",
+      "keying": "+"
+    },
+    {
+      "id": 38,
+      "text": "Shirk my duties.",
+      "trait": "Conscientiousness",
+      "keying": "-"
+    },
+    {
+      "id": 39,
+      "text": "Have frequent mood swings.",
+      "trait": "Neuroticism",
+      "keying": "+"
+    },
+    {
+      "id": 40,
+      "text": "Use difficult words.",
+      "trait": "Openness",
+      "keying": "+"
+    },
+    {
+      "id": 41,
+      "text": "Don't mind being the center of attention.",
+      "trait": "Extraversion",
+      "keying": "+"
+    },
+    {
+      "id": 42,
+      "text": "Feel others' emotions.",
+      "trait": "Agreeableness",
+      "keying": "+"
+    },
+    {
+      "id": 43,
+      "text": "Follow a schedule.",
+      "trait": "Conscientiousness",
+      "keying": "+"
+    },
+    {
+      "id": 44,
+      "text": "Get irritated easily.",
+      "trait": "Neuroticism",
+      "keying": "+"
+    },
+    {
+      "id": 45,
+      "text": "Spend time reflecting on things.",
+      "trait": "Openness",
+      "keying": "+"
+    },
+    {
+      "id": 46,
+      "text": "Am quiet around strangers.",
+      "trait": "Extraversion",
+      "keying": "-"
+    },
+    {
+      "id": 47,
+      "text": "Make people feel at ease.",
+      "trait": "Agreeableness",
+      "keying": "+"
+    },
+    {
+      "id": 48,
+      "text": "Am exacting in my work.",
+      "trait": "Conscientiousness",
+      "keying": "+"
+    },
+    {
+      "id": 49,
+      "text": "Often feel blue.",
+      "trait": "Neuroticism",
+      "keying": "+"
+    },
+    {
+      "id": 50,
+      "text": "Am full of ideas.",
+      "trait": "Openness",
+      "keying": "+"
+    }
+  ]
+}
