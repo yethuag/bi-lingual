@@ -1,11 +1,15 @@
 from __future__ import annotations
 
 import csv
+import os
 import statistics
 from collections import defaultdict
 from dataclasses import dataclass
 from pathlib import Path
 from typing import Optional, TypeAlias
+
+
+os.environ.setdefault("MPLCONFIGDIR", str(Path(".matplotlib-cache").resolve()))
 
 
 RESULTS_CSV = Path("llm_persona_results.csv")

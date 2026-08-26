@@ -1,5 +1,16 @@
 __pycache__/
 *.py[cod]
+.venv/
+venv/
+.env
+.env.*
+!.env.example
+.ipynb_checkpoints/
+.pytest_cache/
+.coverage
+htmlcov/
+.idea/
+.vscode/
 .DS_Store
 .claude/
 .matplotlib-cache/
