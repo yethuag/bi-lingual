@@ -75,8 +75,6 @@ compliance can break before psychometric comparison is possible.
 | `llm_persona_results.csv` | Raw item-level outputs for all 6,000 generations |
 | `llm_persona_trait_scores.csv` | Big Five scores by model, language, and session |
 | `llm_persona_summary.csv` | Aggregate trait means, standard deviations, and sample counts |
-| `kaggle_one_model_eval_and_visualize.py` | GPU-ready Hugging Face runner for one model at a time |
-| `qwen-7b-ipip-eval.ipynb` | Executed Kaggle experiment for Qwen 2.5 7B Instruct |
 
 ## Run the analysis
 
@@ -114,22 +112,6 @@ Because the repository includes a completed results file, the pipeline will
 detect those sessions and skip them. To collect a fresh run, first archive the
 included `llm_persona_results.csv` under a different name or configure a new
 output path.
-
-## Kaggle / Hugging Face runner
-
-The Kaggle script loads one Hugging Face model in 4-bit quantization, validates
-strict one-character responses, creates model-specific outputs, and can remove
-the downloaded model cache after completion. The default model is
-`Qwen/Qwen2.5-7B-Instruct`; select another model with `TARGET_MODEL`:
-
-```bash
-TARGET_MODEL=Qwen/Qwen2.5-7B-Instruct \
-python kaggle_one_model_eval_and_visualize.py
-```
-
-On Kaggle, attach the two questionnaire JSON files as input data, enable a GPU
-and internet access, and add `HF_TOKEN` as a Kaggle secret if the selected model
-requires authentication.
 
 ## Limitations
 

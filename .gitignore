@@ -17,12 +17,3 @@ htmlcov/
 pipeline_run*.log
 *.backup.csv
 *.precrash.csv
-hf_model_cache/
-llm_persona_results_*.csv
-llm_persona_trait_scores_*.csv
-llm_persona_summary_*.csv
-llm_persona_traits_*.png
-radar_persona_profiles_*.png
-persona_drift_heatmap_*.png
-parse_failure_rates_*.png
-session_stability_*.png
