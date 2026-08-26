@@ -21,7 +21,7 @@ apparent Big Five profile or its ability to follow the requested response format
 
 | Component | Setting |
 | --- | --- |
-| Instrument | IPIP-50 Big Five questionnaire |
+| Instrument | [IPIP-50 Big Five questionnaire](https://ipip.ori.org/new_ipip-50-item-scale.htm) |
 | Languages | English and Burmese |
 | Models | Qwen 2.5 3B, Llama 3.2 3B, SEA-LION v3.5 8B-R |
 | Repeated sessions | 20 per model-language pair |
