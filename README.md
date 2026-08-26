@@ -8,6 +8,12 @@ The repository contains the bilingual questionnaire, a reproducible local
 evaluation pipeline, 6,000 item-level responses from three open models, scoring
 and visualization code, and the resulting research figures.
 
+## Research paper
+
+[Download the two-month internship final research report](internship_research_paper.pdf).
+The report follows a standard research-paper structure and includes all four
+result figures.
+
 > This project evaluates pretrained language models; it does not fine-tune them.
 > The reported scores describe model responses to a questionnaire, not human
 > personality or clinical measurements.
